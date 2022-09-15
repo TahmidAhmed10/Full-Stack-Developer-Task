@@ -4,7 +4,7 @@ The languages used are HTML, JavaScript, and PHP.
 
 # Installation Needed to be done:
 The only software that would needed to be downloaded is XAMPP, this is
-for the MySQL database. (https://www.apachefriends.org/)
+for the MySQL database (https://www.apachefriends.org/).
 During the installing phase, there are options given, the ones that should be
 selected are Apache and MySQL.
 Version: 3.3.0
