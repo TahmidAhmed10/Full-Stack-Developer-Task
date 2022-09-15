@@ -2,7 +2,7 @@
 This is a web application that brings out jokes from the MySQL database.
 The languages used are HTML, JavaScript, and PHP.
 
-Installation Needed to be done:
+# Installation Needed to be done:
 The only software that would needed to be downloaded is XAMPP, this is
 for the MySQL database. (https://www.apachefriends.org/)
 During the installing phase, there are options given, the ones that should be
@@ -15,7 +15,7 @@ row of MySQL. It open a browser interface, this is where you create a database,
 which should be named as 'jokes', then import the SQL dump file into that
 database.
 
-Running the Web application:
+# Running the Web application:
 The web application should be stored into htdocs, which is normally located
 C:\xampp\htdocs. This can be changed by clicking on Apache config, which is on
 the XAMPP control panel. Then selecting Apache (httpd.conf) and then locate the
@@ -31,7 +31,7 @@ After storing the web application in the localhost directory, open a web browser
 preferably Chrome. Type in localhost in the browser URL bar and press enter.
 The index page should pop up with a selection of jokes that can be chosen.
 
-How the file should be stored in the localhost directory:
+# How the file should be stored in the localhost directory:
 
 htdocs
 
