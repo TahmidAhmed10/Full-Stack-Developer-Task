@@ -21,16 +21,11 @@ C:\xampp\htdocs. This can be changed by clicking on Apache config, which is on
 the XAMPP control panel. Then selecting Apache (httpd.conf) and then locate the
 following:
 
-#
-# DocumentRoot: The directory out of which you will serve your
-# documents. By default, all requests are taken from this directory, but
-# symbolic links and aliases may be used to point to other locations.
-#
 DocumentRoot "C:/xampp/htdocs"
 <Directory "C:/xampp/htdocs">
 
 This shows the location of the localhost and also can be changed to any
-directory if needed.
+directory if needed. 
 
 After storing the web application in the localhost directory, open a web browser
 preferably Chrome. Type in localhost in the browser URL bar and press enter.
