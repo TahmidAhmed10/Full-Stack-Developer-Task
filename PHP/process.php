@@ -47,7 +47,7 @@ require 'conn.php';
         </label>
       </li>
       <div class="space3"></div>
-      <button name="button" type="submit" class="submit1">Submit</button>
+      <button name="button" type="submit" class="submit1">Submit Again</button>
     </form>
     <?php
     // All Selected
