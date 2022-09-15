@@ -33,7 +33,7 @@ The index page should pop up with a selection of jokes that can be chosen.
 
 # How the file should be stored in the localhost directory:
 
-htdocs:
+htdocs(
 
  CSS:
   button.css
@@ -44,3 +44,4 @@ htdocs:
   process.php
 
  index.html
+)
