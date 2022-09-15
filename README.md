@@ -1,6 +1,6 @@
 # Full-Stack-Developer-Task
 This is a web application that brings out jokes from the MySQL database.
-The languages used are HTML, JavaScript, and PHP.
+The languages used are HTML, JavaScript, CSS ,and PHP.
 
 # Installation Needed to be done:
 The only software that would needed to be downloaded is XAMPP, this is
@@ -22,6 +22,7 @@ the XAMPP control panel. Then selecting Apache (httpd.conf) and then locate the
 following:
 
 DocumentRoot "C:/xampp/htdocs"
+
 <Directory "C:/xampp/htdocs">
 
 This shows the location of the localhost and also can be changed to any
