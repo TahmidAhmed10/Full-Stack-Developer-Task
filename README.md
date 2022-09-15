@@ -22,6 +22,7 @@ the XAMPP control panel. Then selecting Apache (httpd.conf) and then locate the
 following:
 
 DocumentRoot "C:/xampp/htdocs"
+
 <Directory "C:/xampp/htdocs">
 
 This shows the location of the localhost and also can be changed to any
